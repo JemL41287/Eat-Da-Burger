@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/food.png");
+}
+
+html {
+    margin: 40px;
+}
+
+.container-flex {
+    text-align: center;
+    font-family: 'Gochi Hand', cursive;
+}
