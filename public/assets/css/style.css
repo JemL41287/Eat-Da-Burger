@@ -8,9 +8,14 @@ html {
 
 .container-flex {
     text-align: center;
-    font-family: 'Gochi Hand', cursive;
+    font-family: 'Bangers', cursive;
 }
 
 ul {
     list-style-type: none;
+}
+
+p {
+    font-size: 18px;
+
 }
