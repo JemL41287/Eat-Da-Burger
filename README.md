@@ -16,7 +16,7 @@ This is an application that is used to log burgers to be 'devoured' using MySQL,
 
 ## Demo
 
-![Demo](/assets/img/eatdaburger.gif)
+![Demo](../assets/img/eatdaburger.gif)
 
 ## Tech used
 - HTML
